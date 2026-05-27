@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="post">
+  <header class="post-header">
+  </header>
+{% include carousel.html height="25" unit="%" duration="7" number="1" %}
+
+  <article>
+    {{ content }}
+  </article>
+
+  {% if page.related_publications %}
+    <h2>References</h2>
+    <div class="publications">
+      {% bibliography --cited_in_order %}
+    </div>
+  {% endif %}
+
+  {% if site.giscus and page.giscus_comments %}
+    {% include giscus.liquid %}
+  {% endif %}
+</div>

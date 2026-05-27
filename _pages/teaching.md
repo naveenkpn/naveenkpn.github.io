@@ -1,12 +1,37 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 2
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I teach courses related to analog circuits design and VLSI design (analog, digital and mixed signal). I also conduct lab courses related to basic circuits design and project labs in embedded systems.
 
-Organize your courses by years, topics, or universities, however you like!
+## Currently running courses
+- Autumn 2026-27 :
+    - EE603T - Analog IC Design (LTPC: 3-0-0-6)
+    - EE201L - Devices and Circuits Lab (LTPC: 0-0-3-3)
+
+## Courses I have taught previously
+- Mixed signal VLSI Design
+- Analog IC Design
+- VLSI Design
+- Introduction to analog circuits
+- Analog circuits
+- Signals and Systems
+- Devices and circuits lab
+- Electronics Design lab
+- Digital circuits lab
+- Analog circuits lab
+- Engineering Electromagnetics
+- Hands on Engineering lab (Electrical Engineering component)
+
+## Other courses
+
+- ATAL FDP in Dec. 2021: High performance Analog and Mixed signal VLSI System design : The recorded lectures and presentation slides can be accessed from [ATAL-FDP-2021](/atal-fdp-2021/).
+
+## My semester wise course list
+List of courses I have taught in past semesters are [here](/allcourses/)
+
