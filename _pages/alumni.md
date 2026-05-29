@@ -32,7 +32,7 @@ nav_order: 7
         <h4>Pavan Kumar</h4>
         <p> Degree: MS by research, Thesis title: "A Variable OSR $\Delta\Sigma$ ADC using LSB-First SAR ADC as Quantizer". </p>
         <p> Graduated: April, 2026. </p>
-        <p> From: NIE Mysuru - To: Bharathsemi. </p>
+        <p> From: NIE Mysuru - To: Bharath Semiconductors. </p>
     </div>
 </div>
 
@@ -42,7 +42,7 @@ nav_order: 7
         <h4>Mayank Aggarwal</h4>
         <p> Degree: MS by research, Thesis title: "High Gain OTA with In-Line Negative Transconductance Load and its Applications". </p>
         <p> Graduated: April, 2026. </p>
-        <p> From: Guru Gobind Singh Institute, Indraprastha University - To: Bharathsemi. </p>
+        <p> From: Guru Gobind Singh Institute, Indraprastha University - To: Bharath Semiconductors. </p>
     </div>
 </div>
 
@@ -50,9 +50,10 @@ nav_order: 7
     <img src="/assets/img/yadukrishnan.jpg" alt="Yajukrishnan">
     <div class="student-details">
         <h4>Yadukrishnan K M</h4>
-        <p>Research area: Feedback suppression in hearing aids and prototype development </p>
+        <p>Project title: "Suppression of Acoustic Feedback in Hearing Aids Using Digital Signal Processing" </p>
         <p>Co-advised by Prof. Nitya Tiwari </p>
         <p> <a href="https://www.youtube.com/@creativeengineering3321">His youtube channel</a> </p>
+        <p> From: - To: </p>
     </div>
 </div>
 
@@ -60,7 +61,8 @@ nav_order: 7
     <img src="/assets/img/jahnavi.jpg" alt="Jahnavi">
     <div class="student-details">
         <h4>Jahnavi Kodakondla</h4>
-        <p>Research area: Delta-Sigma DAC and class D amplifiers for hearing aids </p>
+        <p> Project title: "Class-D Audio Amplifiers and Delta-Sigma DACs for Hearing Aids" </p>
+        <p> From: Tata consultancy services - To: <i>Looking to pursue PhD</i> </p>
     </div>
 </div>
 
@@ -81,8 +83,7 @@ nav_order: 7
     <img src="/assets/img/tirumala.jpg" alt="Tirumala">
     <div class="student-details">
         <h4>Tirumala Reddy</h4>
-        <p>Research area: Post-processing for TRNG circuits. </p>
-        <p> From: To: Junior Research Fellow at IIT Guwahati. </p>
+        <p> Project title: "Post-processing for TRNG circuits" </p>
     </div>
 </div>
 
@@ -90,8 +91,8 @@ nav_order: 7
     <img src="/assets/img/sahil.jpg" alt="Sahil">
     <div class="student-details">
         <h4>Sahil Bagade</h4>
-        <p>Research area: Clock data recovery circuits </p>
-        <p>From: To: Synopsis. </p>
+        <p> Project title: "Clock data recovery circuits" </p>
+        <p> From: Yeshwantrao Chavan College of Engineering (YCCE), Nagpur, To: Synopsis Bengaluru. </p>
     </div>
 </div>
 

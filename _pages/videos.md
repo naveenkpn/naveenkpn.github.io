@@ -18,13 +18,44 @@ We post lectures, talks and other presentations on our youtube channel. You are 
 
 
 ## Recent posts:
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe
-    src="https://www.youtube.com/embed/VIDEO_ID"
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px;">
+
+  <!-- Video 1 -->
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      src="https://www.youtube.com/embed/2xE2KyEF3Dk"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
+  <!-- Video 2 -->
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      src="https://www.youtube.com/embed/CNcyVk8M3kk"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>
+
+  <!-- Video 3 
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe
+      src="https://www.youtube.com/embed/CNcyVk8M3kk"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    </iframe>
+  </div>  -->
+
 </div>
+

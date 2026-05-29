@@ -20,6 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 carousels:
   - images:
+    - image: /assets/slider/pavan.png
+    - image: /assets/slider/mayank-defense.jpg
+    - image: /assets/slider/mayank.png
+    - image: /assets/slider/mayur_defence.jpg
+    - image: /assets/slider/mayur.png
     - image: /assets/slider/ganga-defence.png
     - image: /assets/slider/apurv-defence.png
     - image: /assets/slider/Ganga-apurv-graduation.jpg
