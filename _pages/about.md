@@ -20,15 +20,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 carousels:
   - images:
-    - image: /assets/slider/pavan.png
-    - image: /assets/slider/mayank-defense.jpg
-    - image: /assets/slider/mayank.png
-    - image: /assets/slider/mayur_defence.jpg
-    - image: /assets/slider/mayur.png
-    - image: /assets/slider/ganga-defence.png
-    - image: /assets/slider/apurv-defence.png
-    - image: /assets/slider/Ganga-apurv-graduation.jpg
-    - image: /assets/slider/mayur-stemm.jpeg
+    - image: /naveen/assets/slider/avinash.png
+    - image: /naveen/assets/slider/avinash-defence.png
+    - image: /naveen/assets/slider/pavan.png
+    - image: /naveen/assets/slider/mayank-defense.jpg
+    - image: /naveen/assets/slider/mayank.png
+    - image: /naveen/assets/slider/mayur_defence.jpg
+    - image: /naveen/assets/slider/mayur.png
+    - image: /naveen/assets/slider/ganga-defence.png
+    - image: /naveen/assets/slider/apurv-defence.png
+#    - image: /naveen/assets/slider/Ganga-apurv-graduation.jpg
+#    - image: /naveen/assets/slider/mayur-stemm.jpeg
 
 
 announcements:
@@ -53,6 +55,6 @@ interface circuits for MEMS sensors. We also have some active ongoing
 work on hearing aid design.</b>
 
 <h3> Academic background and Experience </h3>
-<b> I obtained my M.Tech + Ph.D. dual degree from [Dept. of Electrical Engineering](https://www.ee.iitb.ac.in) at Indian Institute of Technology Bombay in 2017. I worked on low swing on-chip interconnects under the guidance of Prof. Dinesh Sharma and Prof. Maryam Shojaei Baghini. You can read the abstract of my Ph.D work [here](/research/#phd-research). I obtained a Bachelor's degree in Electronics and Telecommunications from Padre Conceicao College of Engineering, Goa in the year 2008. After my Ph.D., I had a short stint as a Post-doctoral fellow with Prof. Nagendra Krishnapura in the Department of Electrical Engineering of the Indian Institute of Technology Madras. I was a visiting faculty member in the department of Avionics at Indian Institute of Space Science and Technology, Trivandrum during Spring 2017-18. </b>
+<b> I obtained my M.Tech + Ph.D. dual degree from [Dept. of Electrical Engineering](https://www.ee.iitb.ac.in) at Indian Institute of Technology Bombay in 2017. I worked on low swing on-chip interconnects under the guidance of Prof. Dinesh Sharma and Prof. Maryam Shojaei Baghini. You can read the abstract of my Ph.D work [here](/naveen/research/#phd-research). I obtained a Bachelor's degree in Electronics and Telecommunications from Padre Conceicao College of Engineering, Goa in the year 2008. After my Ph.D., I had a short stint as a Post-doctoral fellow with Prof. Nagendra Krishnapura in the Department of Electrical Engineering of the Indian Institute of Technology Madras. I was a visiting faculty member in the department of Avionics at Indian Institute of Space Science and Technology, Trivandrum during Spring 2017-18. </b>
 
 

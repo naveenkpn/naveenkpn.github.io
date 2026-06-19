@@ -28,7 +28,7 @@ nav_order: 6
 ### **Ph.D Students** 
 
 <div class="student">
-    <img src="/assets/img/student-girl.png" alt="Shreelakshmi">
+    <img src="/naveen/assets/img/shreelakshmi.png" alt="Shreelakshmi">
     <div class="student-details">
         <h4> Shreelakshmi Parvatikar</h4>
         <p>Research area: TBD </p>
@@ -36,7 +36,7 @@ nav_order: 6
 </div>
 
 <div class="student">
-    <img src="/assets/img/student-boy.png" alt="Aditya">
+    <img src="/naveen/assets/img/Aditya.png" alt="Aditya">
     <div class="student-details">
         <h4> Aditya Raj</h4>
         <p>Research area: TBD </p>
@@ -46,7 +46,7 @@ nav_order: 6
 ### **MS by Research Students**
 
 <div class="student">
-    <img src="/assets/img/prabhas.jpg" alt="Pavan">
+    <img src="/naveen/assets/img/prabhas.jpg" alt="Pavan">
     <div class="student-details">
         <h4>Prabhas Deshpande</h4>
         <p>Research area: High input impedance instrumentation amplifiers </p>
@@ -54,23 +54,13 @@ nav_order: 6
     </div>
 </div>
 
-
-<div class="student">
-    <img src="/assets/img/avinash.jpg" alt="Avinash">
-    <div class="student-details">
-        <h4>Avinash Maurya</h4>
-        <p>Research area: Suspended Gate FET sensors</p>
-        <p> Co-advied by Prof. Seena V </p>
-    </div>
-</div>
-
 ### **MTech students**
 <div class="student">
-    <img src="/assets/img/student-girl.png" alt="Lakshmi">
+    <img src="/naveen/assets/img/Lakshmi.jpeg" alt="Lakshmi">
     <div class="student-details">
         <h4> Lakshmi Nair</h4>
         <p>Research area: Oversampling data converters </p>
     </div>
 </div>
 
-# **[Graduated students](/alumni/)**
+# **[Graduated students](/naveen/alumni/)**

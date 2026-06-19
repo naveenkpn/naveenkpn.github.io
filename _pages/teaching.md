@@ -30,8 +30,8 @@ I teach courses related to analog circuits design and VLSI design (analog, digit
 
 ## Other courses
 
-- ATAL FDP in Dec. 2021: High performance Analog and Mixed signal VLSI System design : The recorded lectures and presentation slides can be accessed from [ATAL-FDP-2021](/atal-fdp-2021/).
+- ATAL FDP in Dec. 2021: High performance Analog and Mixed signal VLSI System design : The recorded lectures and presentation slides can be accessed from [ATAL-FDP-2021](/naveen/atal-fdp-2021/).
 
 ## My semester wise course list
-List of courses I have taught in past semesters are [here](/allcourses/)
+List of courses I have taught in past semesters are [here](/naveen/allcourses/)
 
