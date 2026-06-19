@@ -7,56 +7,56 @@ ninja.data = [{
     title: "Home",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/";
+      window.location.href = "/naveen/";
     },
   },{id: "nav-teaching",
           title: "Teaching",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/naveen/teaching/";
           },
         },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/naveen/research/";
           },
         },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/publications/";
+            window.location.href = "/naveen/publications/";
           },
         },{id: "nav-youtube",
           title: "Youtube",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Youtube/";
+            window.location.href = "/naveen/Youtube/";
           },
         },{id: "nav-group",
           title: "Group",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/group/";
+            window.location.href = "/naveen/group/";
           },
         },{id: "nav-alumni",
           title: "Alumni",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/alumni/";
+            window.location.href = "/naveen/alumni/";
           },
         },{id: "nav-openings",
           title: "Openings",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/openings/";
+            window.location.href = "/naveen/openings/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -66,7 +66,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/naveen/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -77,7 +77,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/photo-gallery/";
+            window.location.href = "/naveen/blog/2024/photo-gallery/";
           
         },
       },{id: "post-a-post-with-tabs",
@@ -88,7 +88,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tabs/";
+            window.location.href = "/naveen/blog/2024/tabs/";
           
         },
       },{id: "post-a-post-with-typograms",
@@ -99,7 +99,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/typograms/";
+            window.location.href = "/naveen/blog/2024/typograms/";
           
         },
       },{id: "post-a-post-that-can-be-cited",
@@ -110,7 +110,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/post-citation/";
+            window.location.href = "/naveen/blog/2024/post-citation/";
           
         },
       },{id: "post-a-post-with-pseudo-code",
@@ -121,7 +121,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/pseudocode/";
+            window.location.href = "/naveen/blog/2024/pseudocode/";
           
         },
       },{id: "post-a-post-with-code-diff",
@@ -132,7 +132,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/code-diff/";
+            window.location.href = "/naveen/blog/2024/code-diff/";
           
         },
       },{id: "post-a-post-with-advanced-image-components",
@@ -143,7 +143,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/advanced-images/";
+            window.location.href = "/naveen/blog/2024/advanced-images/";
           
         },
       },{id: "post-a-post-with-vega-lite",
@@ -154,7 +154,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/vega-lite/";
+            window.location.href = "/naveen/blog/2024/vega-lite/";
           
         },
       },{id: "post-a-post-with-geojson",
@@ -165,7 +165,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/geojson-map/";
+            window.location.href = "/naveen/blog/2024/geojson-map/";
           
         },
       },{id: "post-a-post-with-echarts",
@@ -176,7 +176,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/echarts/";
+            window.location.href = "/naveen/blog/2024/echarts/";
           
         },
       },{id: "post-a-post-with-chart-js",
@@ -187,7 +187,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/chartjs/";
+            window.location.href = "/naveen/blog/2024/chartjs/";
           
         },
       },{id: "post-a-post-with-tikzjax",
@@ -198,7 +198,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/tikzjax/";
+            window.location.href = "/naveen/blog/2023/tikzjax/";
           
         },
       },{id: "post-a-post-with-bibliography",
@@ -209,7 +209,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/post-bibliography/";
+            window.location.href = "/naveen/blog/2023/post-bibliography/";
           
         },
       },{id: "post-a-post-with-jupyter-notebook",
@@ -220,7 +220,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/jupyter-notebook/";
+            window.location.href = "/naveen/blog/2023/jupyter-notebook/";
           
         },
       },{id: "post-a-post-with-custom-blockquotes",
@@ -231,7 +231,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/custom-blockquotes/";
+            window.location.href = "/naveen/blog/2023/custom-blockquotes/";
           
         },
       },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
@@ -242,7 +242,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/sidebar-table-of-contents/";
+            window.location.href = "/naveen/blog/2023/sidebar-table-of-contents/";
           
         },
       },{id: "post-a-post-with-audios",
@@ -253,7 +253,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/audios/";
+            window.location.href = "/naveen/blog/2023/audios/";
           
         },
       },{id: "post-a-post-with-videos",
@@ -264,7 +264,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/videos/";
+            window.location.href = "/naveen/blog/2023/videos/";
           
         },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
@@ -275,7 +275,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/tables/";
+            window.location.href = "/naveen/blog/2023/tables/";
           
         },
       },{id: "post-a-post-with-table-of-contents",
@@ -286,7 +286,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2023/table-of-contents/";
+            window.location.href = "/naveen/blog/2023/table-of-contents/";
           
         },
       },{id: "post-a-post-with-giscus-comments",
@@ -297,7 +297,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2022/giscus-comments/";
+            window.location.href = "/naveen/blog/2022/giscus-comments/";
           
         },
       },{id: "post-a-post-with-redirect",
@@ -308,7 +308,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/assets/pdf/example_pdf.pdf";
+            window.location.href = "/naveen/assets/pdf/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -319,7 +319,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/diagrams/";
+            window.location.href = "/naveen/blog/2021/diagrams/";
           
         },
       },{id: "post-a-distill-style-blog-post",
@@ -330,7 +330,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2021/distill/";
+            window.location.href = "/naveen/blog/2021/distill/";
           
         },
       },{id: "post-a-post-with-twitter",
@@ -341,7 +341,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2020/twitter/";
+            window.location.href = "/naveen/blog/2020/twitter/";
           
         },
       },{id: "post-a-post-with-disqus-comments",
@@ -352,7 +352,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/disqus-comments/";
+            window.location.href = "/naveen/blog/2015/disqus-comments/";
           
         },
       },{id: "post-a-post-with-math",
@@ -363,7 +363,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/math/";
+            window.location.href = "/naveen/blog/2015/math/";
           
         },
       },{id: "post-a-post-with-code",
@@ -374,7 +374,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/code/";
+            window.location.href = "/naveen/blog/2015/code/";
           
         },
       },{id: "post-a-post-with-images",
@@ -385,7 +385,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/images/";
+            window.location.href = "/naveen/blog/2015/images/";
           
         },
       },{id: "post-a-post-with-formatting-and-links",
@@ -396,14 +396,14 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2015/formatting-and-links/";
+            window.location.href = "/naveen/blog/2015/formatting-and-links/";
           
         },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/naveen/books/the_godfather/";
             },},{id: "news-mayur-has-been-awarded-for-the-best-research-presentation-in-the-transformative-leadership-in-stemm-workshop-held-at-iit-delhi-congratulations-mayur-sparkles",
           title: 'Mayur has been awarded for the best research presentation in the Transformative leadership...',
           description: "",
@@ -437,54 +437,57 @@ ninja.data = [{
           section: "News",},{id: "news-mayank-aggarwal-successfully-defended-his-ms-thesis-his-thesis-was-titled-high-gain-ota-with-in-line-negative-transconductance-load-and-its-applications-congratulations-mayank-sparkles-you-can-watch-the-defence-presentation-here",
           title: 'Mayank Aggarwal successfully defended his MS thesis. His thesis was titled “High Gain...',
           description: "",
-          section: "News",},{id: "news-pavan-kumar-k-m-successfully-defended-her-ms-thesis-his-thesis-was-titled-a-variable-osr-delta-sigma-adc-using-lsb-first-sar-adc-as-quantizer-congratulations-pavan-sparkles-you-can-watch-the-defence-presentation-here",
-          title: 'Pavan Kumar K M successfully defended her MS thesis. His thesis was titled...',
+          section: "News",},{id: "news-pavan-kumar-k-m-successfully-defended-his-ms-thesis-his-thesis-was-titled-a-variable-osr-delta-sigma-adc-using-lsb-first-sar-adc-as-quantizer-congratulations-pavan-sparkles-you-can-watch-the-defence-presentation-here",
+          title: 'Pavan Kumar K M successfully defended his MS thesis. His thesis was titled...',
+          description: "",
+          section: "News",},{id: "news-avinash-maurya-successfully-defended-his-ms-thesis-his-thesis-was-titled-suspended-gate-field-effect-transistor-ac-analysis-and-noise-modeling-using-look-up-tables-congratulations-avinash-sparkles-you-can-watch-the-defence-presentation-here",
+          title: 'Avinash Maurya successfully defended his MS thesis. His thesis was titled “Suspended Gate...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/naveen/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/naveen/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/naveen/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
+              window.location.href = "/naveen/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/naveen/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
+              window.location.href = "/naveen/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
+              window.location.href = "/naveen/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
+              window.location.href = "/naveen/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/naveen/projects/9_project/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
